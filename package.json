@@ -23,6 +23,9 @@
         "bindings" : "*",
         "nan" : "*"
     },
+    "devDependencies": {
+        "benchmark": "2.x.x"
+    },
     "keywords": [
         "x11",
         "darkcoin",
